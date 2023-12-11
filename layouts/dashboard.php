@@ -48,6 +48,11 @@
 					</a>
 				</li>
 				<li>
+					<a href="<?php echo URL; ?>/handphone">
+						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Handphone
+					</a>
+				</li>
+				<li>
 					<a href="<?php echo URL; ?>/dashboard/logout">
 						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Logout
 					</a>
